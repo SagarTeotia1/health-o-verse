@@ -27,6 +27,5 @@ Heal-o-verse with Oneith is a cutting-edge healthcare platform that harnesses th
 - Contributions are welcome! Feel free to submit pull requests or raise issues for any improvements or bug fixes.
 
 *Credits:*
-- Developed by SAANP
 
 ].
